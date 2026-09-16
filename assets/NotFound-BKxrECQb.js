@@ -1,0 +1,1 @@
+import{a3 as t,o as e,c as o}from"./index-DR81ULAr.js";const c={},n={class:"p-8 text-center text-xl"};function s(r,a){return e(),o("div",n,"404 — Not found")}const d=t(c,[["render",s]]);export{d as default};
