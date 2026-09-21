@@ -1,1 +1,0 @@
-import{a2 as e,o as t,e as o}from"./index-D0914NYK.js";const c={},n={class:"p-8 text-center text-xl"};function s(r,a){return t(),o("div",n,"404 — Not found")}const d=e(c,[["render",s]]);export{d as default};
